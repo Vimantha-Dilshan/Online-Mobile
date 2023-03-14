@@ -1,0 +1,43 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+.small-text {
+    font-size: 12px;
+    font-weight: 1000;
+}
+
+.user-role {
+    color: #6c757d;
+}
+
+.refreshButton {
+    color: #198754;
+    text-decoration: none;
+}
+
+.refreshButton:hover {
+    color: white;
+}
+
+.tableData {
+    font-size: 12px;
+}
+
+.product_grid {
+    height: 60px;
+    height: 60px;
+}
+
+.product_view {
+    height: 340px;
+    height: 340px;
+}
+
+.table-responsive {
+    max-height:680px;
+}
+
+.table-responsive-seller {
+    max-height:200px;
+}
